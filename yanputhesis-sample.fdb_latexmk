@@ -1,18 +1,18 @@
 # Fdb version 4
-["bibtex yanputhesis-sample"] 1773338697.29471 "yanputhesis-sample.aux" "yanputhesis-sample.bbl" "yanputhesis-sample" 1773339919.36208 0
+["bibtex yanputhesis-sample"] 1773343086.30037 "yanputhesis-sample.aux" "yanputhesis-sample.bbl" "yanputhesis-sample" 1773343086.87431 2
   "./nputhesis-noslash.bst" 1772357404 45173 346969161f05bc19264d22b138f4682f ""
-  "./reference.bib" 1773335775 20307 dcddf81e127d190b11e39afe5e1c4514 ""
-  "yanputhesis-sample.aux" 1773339403 45592 a483e17c025e8e0ae65b64f3837009f9 "xelatex"
+  "./reference.bib" 1773343068 20234 3807434d7e1077f31298f71042b9a502 ""
+  "yanputhesis-sample.aux" 1773343086 32 3985256e7290058c681f74d7a3565a19 "xelatex"
   (generated)
   "yanputhesis-sample.bbl"
   "yanputhesis-sample.blg"
   (rewritten before read)
-["xdvipdfmx"] 1773339405.26976 "yanputhesis-sample.xdv" "yanputhesis-sample.pdf" "yanputhesis-sample" 1773339919.39978 0
-  "yanputhesis-sample.xdv" 1773339403 1890048 38a2db1b372c2a0a193e6cc253ddbe02 "xelatex"
+["xdvipdfmx"] 1773343084.48077 "yanputhesis-sample.xdv" "yanputhesis-sample.pdf" "yanputhesis-sample" 1773343084.47396 2
+  "yanputhesis-sample.xdv" 0 -1 0 "xelatex"
   (generated)
   "yanputhesis-sample.pdf"
   (rewritten before read)
-["xelatex"] 1773339398.50399 "yanputhesis-sample.tex" "yanputhesis-sample.xdv" "yanputhesis-sample" 1773339919.3634 0
+["xelatex"] 1773343077.69801 "yanputhesis-sample.tex" "yanputhesis-sample.xdv" "yanputhesis-sample" 1773343085.26412 0
   "2.1.png" 1772631298 1914122 286a802cdf82f40d26e6be3d2e2716ce ""
   "2.10.png" 1772633416 4885093 8ec7e08726a7b939f4d4dcb158d36cf5 ""
   "2.2.png" 1772572700 6419660 52f16ba6c211d51f0e22b36228fb9516 ""
@@ -319,13 +319,13 @@
   "d:/TeXLive/2025/texmf-dist/web2c/texmf.cnf" 1772382897 42148 61becc7c670cd061bb319c643c27fdd4 ""
   "d:/TeXLive/2025/texmf-var/web2c/xetex/xelatex.fmt" 1772387484 5639859 a20b6ca091e221f68359b9412272971b ""
   "d:/TeXLive/2025/texmf.cnf" 1772386980 755 639003dd4ad18b875b8369800f2abbde ""
-  "reference.bib" 1773335775 20307 dcddf81e127d190b11e39afe5e1c4514 ""
-  "yanputhesis-sample.aux" 1773339403 45592 a483e17c025e8e0ae65b64f3837009f9 "xelatex"
-  "yanputhesis-sample.bbl" 1773338697 17814 3e639f189738e7c5bb737c8367be9161 "bibtex yanputhesis-sample"
-  "yanputhesis-sample.lof" 1773339403 8575 dac82b7eff4fc04997b0f7f42a27fa5c "xelatex"
-  "yanputhesis-sample.lot" 1773339403 1756 0a86fa062e01d5412611a3f1e1ce0ee5 "xelatex"
-  "yanputhesis-sample.tex" 1773339397 224283 8dd38220239af534a0b5199d5741e790 ""
-  "yanputhesis-sample.toc" 1773339403 9112 9e4f4ee0216b4b2856eafc7b8ab862f9 "xelatex"
+  "reference.bib" 1773343068 20234 3807434d7e1077f31298f71042b9a502 ""
+  "yanputhesis-sample.aux" 1773343086 32 3985256e7290058c681f74d7a3565a19 "xelatex"
+  "yanputhesis-sample.bbl" 1773343086 0 d41d8cd98f00b204e9800998ecf8427e "bibtex yanputhesis-sample"
+  "yanputhesis-sample.lof" 0 -1 0 "xelatex"
+  "yanputhesis-sample.lot" 0 -1 0 "xelatex"
+  "yanputhesis-sample.tex" 1773343068 224284 0473065dc0e33cf74687460863c0693e ""
+  "yanputhesis-sample.toc" 0 -1 0 "xelatex"
   "yanputhesis.cls" 1772357404 65156 c3454ef2341b3805e34906203d0d5c9c ""
   (generated)
   "yanputhesis-sample.acn"
